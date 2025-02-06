@@ -11,3 +11,7 @@ Story 3 - The three main types of meetings during a sprint cycle are sprint plan
 In sprint planning, the team discusses the sprint goal and selects backlog items to work on, ensuring tasks are clearly defined.
 Daily stand-ups focus on progress updates, where team members share what they worked on, what they plan to do next, and any blockers they face. 
 Sprint retrospectives occur at the end of the sprint, where the team reflects on what went well and identifies areas for improvement to enhance future sprints.
+
+Story 4 - An epic, story, bug, and issue each serve different purposes in Agile development. An epic is a large body of work that is broken down into smaller user stories and spans multiple sprints, typically representing a major feature or initiative. 
+A story is a specific user requirement that delivers a piece of functionality, usually written from the user’s perspective. A bug refers to an error or defect in the software that needs to be fixed to ensure proper functionality. 
+An issue is a broader term that can refer to any impediment, task, or problem that affects the development process, including technical debt, process inefficiencies, or infrastructure concerns.
