@@ -6,3 +6,8 @@ Continuous changes and evolving requirements can lead to uncontrolled scope expa
 Story 2 - The Scrum Master is responsible for facilitating the Scrum process, ensuring that the team follows Agile principles, 
 and removing obstacles that hinder progress, while the Product Owner makes decisions about the product vision, communicates with customers, 
 and continuously refines the backlog based on feedback and business needs.
+
+Story 3 - The three main types of meetings during a sprint cycle are sprint planning, daily stand-ups, and sprint retrospectives. 
+In sprint planning, the team discusses the sprint goal and selects backlog items to work on, ensuring tasks are clearly defined.
+Daily stand-ups focus on progress updates, where team members share what they worked on, what they plan to do next, and any blockers they face. 
+Sprint retrospectives occur at the end of the sprint, where the team reflects on what went well and identifies areas for improvement to enhance future sprints.
