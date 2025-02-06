@@ -1,1 +1,3 @@
-Story 1 - Agile allows teams to respond quickly to changing requirements, making it ideal for dynamic projects where needs evolve over time
+Story 1 - Agile allows teams to respond quickly to changing requirements, making it ideal for dynamic projects where needs evolve over time.
+
+Story 2 - Agile promotes iterative development with frequent releases, enabling faster time-to-market and continuous feedback.
