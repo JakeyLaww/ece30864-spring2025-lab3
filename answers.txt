@@ -1,1 +1,1 @@
-Story 1 - Flexibility and Adaptability: Agile allows teams to respond quickly to changing requirements, making it ideal for dynamic projects where needs evolve over time
+Story 1 - Agile allows teams to respond quickly to changing requirements, making it ideal for dynamic projects where needs evolve over time
